@@ -1,4 +1,4 @@
-beatStation
+beatStation - the Linux version
 ===========
 
 beatStation - an openFrameworks tapping recorder interface
@@ -6,7 +6,6 @@ beatStation - an openFrameworks tapping recorder interface
 This work is licensed under the Creative Commons Attribution-NonCommercial 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/3.0/.
 
 This work is partly-funded by the ERDF - European Regional Development Fund through the COMPETE Programme (operational programme for competitiveness) and by National Funds through the FCT-  Fundacao para a Ciencia e a Tecnologia (Portuguese Foundation for Science and Technology) within project "PTDC/EAT-MMU/112255/2009-(FCOM-01-0124-FEDER-014732)"
-
 
 
 BUILDING 
@@ -26,7 +25,7 @@ Download from github and copy in the addons directory, the following addons:
 - ofxTextSuite
 - ofxNetwork
 
-Copy the beatStation directory in the apps/myapps directory, open the codeblocks project(beatStation.cbp) and clean then build.
+Copy the beatStation directory in the apps/myapps directory, open the codeblocks project(beatStation.cbp) and CLEAN then BUILD.
 We excluded ofxMidi from the Linux version because there are issues with rtMidi and ALSA drivers.
 
 
