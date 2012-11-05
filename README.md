@@ -18,7 +18,7 @@ LINUX BUILD
 
 You will need to have Codeblocks installed.
 Download and install openframeworks for linux as specified on the website.
-Download from github and copy in the addons directory, the following addons:
+Unpack addons.zip or download from github and copy in the addons directory, the following addons:
 
 - ofxUI
 - ofxXMLSettings
