@@ -16,9 +16,11 @@ THIS IS THE VERSION ADAPTED FOR LINUX WHERE THERE IS NO MIDI FUNCTIONALITY DUE T
 
 LINUX BUILD
 
+I suggest you rebuild the beatStation as the version included was built on 32 bit Ubuntu.
+
 You will need to have Codeblocks installed.
 Download and install openframeworks for linux as specified on the website.
-Unpack addons.zip or download from github and copy in the addons directory, the following addons:
+Unpack addons.zip or download from github and copy in the openframeworks addons directory(not the project addons!), the following addons:
 
 - ofxUI
 - ofxXMLSettings
